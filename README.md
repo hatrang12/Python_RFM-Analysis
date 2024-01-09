@@ -1,7 +1,9 @@
 # Python_RFM Analysis
 
 The project uses Python to classify customer segments by analyzing data from a retail company around the world, and then proposes appropriate solutions to deploy for each separate consumer group as needed. from the Marketing Director
-![pic](https://github.com/hatrang12/Python_RFM-Analysis/assets/107136018/f2762c1f-13cb-43d5-86e8-a4f4692e439d)
+
+<p align="center">
+<img src="https://github.com/hatrang12/Python_RFM-Analysis/blob/main/pic.png" align="center" width="400" height="400" >
 
 ## I. **Introduction**
 
